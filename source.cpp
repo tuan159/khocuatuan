@@ -18,5 +18,7 @@ int USCLN(int a, int b)
 	cout << "tao le the anhsdfdsfsd oc cho";
 	cout << "tao le tuan oc chodsgdfgrergdfg";
 	end;
+	endl;
+	endl;
 	return max;
 }

@@ -12,11 +12,11 @@ int USCLN(int a, int b)
 	cout << "tao le loi oc cho";
 	cout << "tao le datsdfsdf oc cho";
 	cout << "tao le datsdfsdf oc cho";
-	cout << "tao le datsdfsdf oc cho";
+	cout << "tao le datsdfsdf oc chasaso";
 	cout << "tao le datsdfsdf oc cho";
 	cout << "tao le datsdfsdf oc cho b fv";
 	cout << "tao le the anh oc cho";
-	cout << "tao le tuan oc cho";
+	cout << "tao le tuan oc chodsgdfgrergdfg";
 	end;
 	return max;
 }

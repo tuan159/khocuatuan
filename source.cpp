@@ -8,7 +8,7 @@ int USCLN(int a, int b)
 		max=i;
 		cout>>"uoc so chung la: ">>max;
 	}
-	cout << "tao le hen oc cho abc";
+	cout << "tao le hen oc cho abcd";
 	cout << "tao le loi oc cho";
 	cout << "tao le dat oc cho";
 	return max;

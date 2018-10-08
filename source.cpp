@@ -9,5 +9,6 @@ int USCLN(int a, int b)
 		cout>>"uoc so chung la: ">>max;
 	}
 	cout << "tao le hen oc cho abc";
+	cout << "tao le loi oc cho";
 	return max;
 }

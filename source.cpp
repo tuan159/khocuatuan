@@ -1,4 +1,12 @@
 int USCLN(int a, int b)
 {
-cout<<"hello";
+	int max=0;
+	int n;
+	for(int i=0; i<n; i++)
+	if(a%i==0 && b%i==0)
+	{
+		max=i;
+		cout>>"uoc so chung la: ">>max;
+	}
+	return max;
 }
